@@ -68,7 +68,10 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="AppBootstrapper.cs" />
+    <Compile Include="AuthenticationRequest.cs" />
     <Compile Include="DelegateCommand.cs" />
+    <Compile Include="AuthenticationResponse.cs" />
+    <Compile Include="IAuthenticationService.cs" />
     <Compile Include="LogInPageViewModel.cs" />
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
