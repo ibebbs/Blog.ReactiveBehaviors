@@ -44,7 +44,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Caliburn.Micro.Reactive.Extensions, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Caliburn.Micro.Reactive.Extensions.1.0.1.3\lib\portable-win81+wpa81+net45+uap10.0\Caliburn.Micro.Reactive.Extensions.dll</HintPath>
+      <HintPath>..\packages\Caliburn.Micro.Reactive.Extensions.1.0.1.4\lib\portable-win81+wpa81+net45+uap10.0\Caliburn.Micro.Reactive.Extensions.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
